@@ -1,2 +1,6 @@
 Hello, world!!
+<<<<<<< HEAD
 Hopefully our last change...
+=======
+One more change!
+>>>>>>> b9ecf5d5f1b8c7dae4cf9a1e5297b0642bf36d0c
